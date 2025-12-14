@@ -1,0 +1,90 @@
+Which law relates pressure and volume of a gas?
+Boyle’s Law
+Newton’s Law
+Ohm’s Law
+Hooke’s Law
+1
+What particle defines an element?
+Protons
+Neutrons
+Electrons
+Photons
+1
+What is the unit of electric charge?
+Coulomb
+Ohm
+Watt
+Newton
+1
+Einstein’s equation relates mass and energy:
+E=mc^2
+F=ma
+P=VI
+V=IR
+1
+What does DNA stand for?
+Deoxyribonucleic Acid
+Dynamic Nucleic Acid
+Digital Nucleic Acid
+Double Nitrogen Acid
+1
+What is Heisenberg known for?
+Uncertainty Principle
+Relativity
+Quantum Field Theory
+Wave Theory
+1
+What is Avogadro's number?
+6.02e23
+3.14
+9.8
+1.6e-19
+1
+What is the SI unit of frequency?
+Hertz
+Pascal
+Tesla
+Lux
+1
+What is the main cause of tides?
+Moon gravity
+Sun gravity
+Earth rotation
+Wind
+1
+Which blood group is universal donor?
+O Negative
+O Positive
+AB+
+AB-
+1
+What is the heaviest naturally occurring element?
+Uranium
+Gold
+Lead
+Platinum
+1
+What is the first law of thermodynamics?
+Energy is conserved
+F=ma
+Entropy increases
+Momentum constant
+1
+What is escape velocity?
+11.2 km/s
+7.5 km/s
+20 km/s
+5 km/s
+1
+What part of cell performs photosynthesis?
+Chloroplast
+Nucleus
+Golgi Body
+Lysosome
+1
+What is quantum number “l”?
+Azimuthal
+Principal
+Spin
+Magnetic
+1

@@ -1,0 +1,104 @@
+Which of the following is a programming language?
+Python
+HTML
+CSS
+HTTP
+0
+
+What does CPU stand for?
+Central Processing Unit
+Computer Personal Unit
+Central Performance Utility
+Control Program Unit
+0
+
+Which data structure uses FIFO (First In First Out)?
+Stack
+Queue
+Tree
+Graph
+1
+
+Which of these is a relational database?
+MongoDB
+MySQL
+Cassandra
+Redis
+1
+
+What is the size of int in most C++ compilers?
+2 bytes
+4 bytes
+8 bytes
+Depends on system
+3
+
+Which protocol is used to send emails?
+FTP
+SMTP
+HTTP
+IMAP
+1
+
+Which keyword is used to define a class in C++?
+class
+struct
+object
+define
+0
+
+What does HTML stand for?
+Hyper Text Markup Language
+Hyperlink and Text Markup Language
+High Text Machine Language
+Hyper Tool Multi Language
+0
+
+Which is a version control system?
+Git
+Docker
+Linux
+Python
+0
+
+What does CSS stand for?
+Cascading Style Sheets
+Computer Style Syntax
+Creative Style Sheet
+Coded Style System
+0
+
+Which is NOT a programming paradigm?
+Object-oriented
+Functional
+Procedural
+Culinary
+3
+
+Which memory is volatile?
+ROM
+Hard Disk
+RAM
+Flash
+2
+
+Which sorting algorithm is fastest on average for large datasets?
+Bubble Sort
+Selection Sort
+Quick Sort
+Insertion Sort
+2
+
+In Python, which symbol is used for comments?
+//
+#
+##
+<>
+1
+
+Which of the following is NOT an OS?
+Windows
+Linux
+Oracle
+MacOS
+2
